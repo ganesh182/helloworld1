@@ -11,5 +11,15 @@ print("10")
 
 a=1
 b='dcds'
-print(a+b)
+print(str(a)+b)
+print("hello","world", sep="\n")
+print("home","alpin","tarxz",sep="/")
 
+print("root","node","child",sep="->")
+print("hello, world")
+print("hello,world",end='\n')
+print("do you want to",end='...')
+print("y/n")
+print('"one","two","three"','"four","five","six"','"seven","eight","nine","ten"',sep="\n")
+print("1","2","3", end=",")
+print("4","5","6", end=",")
